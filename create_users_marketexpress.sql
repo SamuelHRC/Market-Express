@@ -1,6 +1,5 @@
 use mysql; 
 
--- drop user 'finaceiro'@'localhost';
 -- 1. CRIANDO USUÁRIOS
 create user 'finaceiro'@'localhost' identified by 'andromeda24#@!0';
 /*
